@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Tippy" parent="android:Theme.Material.Light.NoActionBar" >
+
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryDark">@color/secondary_blue</item>
+        <item name="android:colorBackground">@color/bg</item>
+    </style>
+</resources>
